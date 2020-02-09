@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5e3aa905cb165108901150f7"},"questions":["1.You prefer to go out and talk a lot to strangers and your friends and can be considered open about yourself.","2.You like to work under pressure and always go the extra mile","3.You think well in a group with support from your peers./You think of ideas better when alone.","4.You strive to be the centre of conversation when you try to walk into a room.","5.People usually observe you while you’re talking in a social outing","6.You like to run the show"],"questionType":"EI","__v":{"$numberInt":"0"}}
+
+
+
+
+{"_id":{"$oid":"5e3ab6081565bc441cfc5744"},"questions":["1.You describe yourself as a realist rather than a dreamer","2.You pay attention to the concrete details and prefer a more in-depth view rather than a bird’s eye view.","3.You like practical ideas with real applications rather than abstract concepts or hypotheticals.","4.You concentrate on the specifics while describing something rather than being figurative.","5.You find yourself worrying about the correct facts frequently."],"questionType":"SN","__v":{"$numberInt":"0"}}
+
+
+
+{"_id":{"$oid":"5e3ab6ce1565bc441cfc5745"},"questions":["1.You make decisions based on logic rather than emotions.","2.You value justice over mercy.","3.You enjoy winning an argument by finding flaws in others rather than losing it.","4.Your peers and relatives often describe you as a mature and level-headed person.","5.You’re more focused on being fair rather than being empathetic."],"questionType":"TN","__v":{"$numberInt":"0"}}
+
+{"_id":{"$oid":"5e3ab7261565bc441cfc5746"},"questions":["1.You prefer to have a plan rather than looking out and waiting for what happens in the future.","2.Rules are important to you and you respect deadlines","3.You prefer being well-informed with instructions rather than improvising on the go","4.You prefer to have all the details before making a decisions rather than being spontaneous","5.You have your whole life planned out."],"questionType":"JP","__v":{"$numberInt":"0"}}
